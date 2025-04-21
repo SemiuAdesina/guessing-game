@@ -1,4 +1,4 @@
 import { io } from 'socket.io-client';
-const socket = io('http://localhost:3001'); // Update if deployed
+const socket = io('https://guessing-game-11zl.onrender.com'); // Update if deployed
 
 export default socket;
