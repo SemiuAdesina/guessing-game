@@ -4,7 +4,7 @@
   "description": "Backend server for the real-time multiplayer guessing game.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
